@@ -1,0 +1,14 @@
+*.toml
+*.yaml
+*.yml
+
+*.log
+*.csv
+*.sh
+
+*.jpg
+*.png
+
+__pycache__/
+tmp
+data
