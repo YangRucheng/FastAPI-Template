@@ -1,0 +1,6 @@
+httpx[http2]
+sqlalchemy
+aiomysql
+fastapi
+loguru
+toml
