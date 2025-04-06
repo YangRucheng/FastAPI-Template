@@ -1,0 +1,6 @@
+httpx[all]
+sqlalchemy
+aiomysql
+fastapi[all]
+uvicorn
+toml
