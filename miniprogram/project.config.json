@@ -1,0 +1,28 @@
+{
+	"appid": "",
+	"compileType": "miniprogram",
+	"libVersion": "3.7.10",
+	"packOptions": {
+		"ignore": [],
+		"include": []
+	},
+	"condition": {},
+	"setting": {
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"es6": true,
+		"enhance": true,
+		"compileHotReLoad": false,
+		"urlCheck": false,
+		"minified": true
+	},
+	"editorSetting": {
+		"tabIndent": "tab",
+		"tabSize": 4
+	},
+	"projectname": "小程序名称",
+	"isGameTourist": false
+}
