@@ -1,0 +1,19 @@
+{
+	"pages": [
+		"pages/home/home"
+	],
+	"resolveAlias": {
+		"~/*": "/*",
+		"@utils/*": "utils/*"
+	},
+	"window": {
+		"navigationBarTextStyle": "black",
+		"navigationStyle": "default",
+		"navigationBarBackgroundColor": "#FFFFFF"
+	},
+	"sitemapLocation": "sitemap.json",
+	"subPackages": [],
+	"requiredPrivateInfos": [],
+	"permission": {},
+	"usingComponents": {}
+}

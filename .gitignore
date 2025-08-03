@@ -1,0 +1,15 @@
+__pycache__/
+node_modules
+
+data
+temp
+
+.vscode
+.DS_Store
+
+*.toml
+*.log
+*.sh
+
+project.private.config.json
+package-lock.json
